@@ -155,14 +155,7 @@ Suggested test order (manual or using Newman):
 6. Notices → `GET /api/notices`
 
 ---
-
-## Troubleshooting
-
-- DB connection errors: verify `MONGODB_URI` and that MongoDB is running.
-- Auth errors: ensure `JWT_SECRET` is set and tokens are passed in `Authorization` header.
-- Port issues: change `PORT` in `.env`.
-
----
+Anushka sahu
 
 
 
